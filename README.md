@@ -7,6 +7,8 @@ The source code for ordering registry certificates online.
 
 ## Developers
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CityOfBoston/registry-certs.svg)](https://greenkeeper.io/)
+
 This is a Node project using the [Next.js](https://github.com/zeit/next.js/)
 framework for server-side rendering.
 
