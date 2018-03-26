@@ -77,7 +77,7 @@
     "moment": "^2.20.1",
     "moment-timezone": "^0.5.14",
     "mssql": "^4.0.4",
-    "next": "^4.2.3",
+    "next": "^5.1.0",
     "node-cleanup": "^2.1.2",
     "nprogress": "^0.2.0",
     "opbeat": "^4.14.0",
