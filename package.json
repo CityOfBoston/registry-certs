@@ -81,7 +81,7 @@
     "inert": "^4.2.0",
     "isomorphic-fetch": "^2.2.1",
     "mjml": "^4.0.0",
-    "mobx": "^4.1.0",
+    "mobx": "^5.0.1",
     "mobx-react": "^5.0.0",
     "moment": "^2.20.1",
     "moment-timezone": "^0.5.14",
